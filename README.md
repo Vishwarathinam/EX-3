@@ -1,0 +1,13 @@
+# EX-3
+
+DATE :
+
+AIM :
+
+ALGORITHM :
+
+PROGRAM :
+
+OUTPUT:
+
+RESULT:
